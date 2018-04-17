@@ -10,6 +10,48 @@ Jede Website muss bis zum 25. Mai 2018 der DSGVO entsprechen. Da sich jeder Webs
 
 Über einen Pull Request kannst du mithelfen die Checkliste zu erweitern/vervollständigen.
 
+## Checkliste
+
+- [ ] **Verwendung von Google Fonts vermeiden**
+- [ ] **Cookie-Hinweis einbunden**
+	- Hinweis darf nicht Link zu Impressum oder Datenschutzerklärung verdecken
+- [ ] **Datenschutzerklärung** ergänzen/aktualisieren
+	- Möglicher Generator: https://dsgvo-muster-datenschutzerklaerung.dg-datenschutz.de/
+- [ ] **SSL-Verschlüsselung** aktivieren
+- [ ] **Google-Analytics** rechtskonform einsetzen
+	- [ ] Vertrag zur Auftragsdatenverarbeitung abschließen (schriftlich und digital)
+	- [ ] IP Anonymisierung einbinden
+	- [ ] Datenschutzerklärung anpassen
+	- [ ] Opt Out Cookies + Link zu Browser PlugIn setzen
+- [ ] **statische Share-Buttons** einsetzen
+- [ ] **Impressum und Datenschutz von Suchmaschinen ausschließen**
+
+- [ ] **Checkbox für Kommentare** einbinden
+	- Mögliches WordPress-Plugin: https://wordpress.org/plugins/wp-gdpr-compliance/
+
+Mögliche Formulierung:
+```plain
+Ich akzeptiere die Datenschutzbestimmungen. Weitere Informationen dazu findest du in der Datenschutzerklärung].
+```
+
+- [ ] **Double-Opt-In-Verfahren für das Abonnieren der Kommentare via Mail
+**
+- Mögliches WordPress-Plugin: https://de.wordpress.org/plugins/subscribe-to-comments-reloaded/
+
+- [ ] **Akismet Anit-Spam darf nicht verwendet werden**
+
+    Double-Opt-In für Newsletter
+
+- [ ] **Auftragsdatenverarbeitungsvertrag mit Newsletter-Anbieter **abschließen
+
+- [ ] **Gravatar deaktivieren**
+
+- [ ] **Überprüfung von externen Ressourcen**
+
+- [ ] **IP-Adressen beim Kommentieren nicht speichern**
+
+- [ ] **Alte IP-Adressen bei Kommentaren löschen**
+
 ## Links
 *Die Checkliste basiert auf folgenden Links.*
 
