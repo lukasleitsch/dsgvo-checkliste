@@ -4,6 +4,12 @@
 
 > **Hinweis**: Die Checkliste basiert auf Artikeln, die sich mit dem Thema auseinander setzen. Es wird keinerlei Haftung auf die Vollständigkeit und/oder Richtigkeit übernommen. Die Checkliste dient als Hinweis und nicht als Rechtsberatung.
 
+## Mitwirken
+
+Jede Website muss bis zum 25. Mai 2018 der DSGVO entsprechen. Da sich jeder Website-Betreiber damit beschäftigen muss und aktiv Änderungen umsetzen muss, können wir uns die Arbeit teilen. Gemeinsam können wir eine Checkliste erstellen, mit der man die Anpassungen an der Website abarbeiten kann. 
+
+Über einen Pull Request kannst du mithelfen die Checkliste zu erweitern/vervollständigen.
+
 ## Links
 *Die Checkliste basiert auf folgenden Links.*
 
