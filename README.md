@@ -2,6 +2,8 @@
 
 *Eine Übersicht für Website-Betreiber*
 
+> **Hinweis**: Die Checkliste basiert auf Artikeln, die sich mit dem Thema auseinander setzen. Es wird keinerlei Haftung auf die Vollständigkeit und/oder Richtigkeit übernommen. Die Checkliste dient als Hinweis und nicht als Rechtsberatung.
+
 ## Links
 *Die Checkliste basiert auf folgenden Links.*
 
