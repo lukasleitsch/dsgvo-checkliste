@@ -34,15 +34,14 @@ Mögliche Formulierung:
 Ich akzeptiere die Datenschutzbestimmungen. Weitere Informationen dazu findest du in der Datenschutzerklärung].
 ```
 
-- [ ] **Double-Opt-In-Verfahren für das Abonnieren der Kommentare via Mail
-**
+- [ ] **Double-Opt-In-Verfahren für das Abonnieren der Kommentare via Mail**
 - Mögliches WordPress-Plugin: https://de.wordpress.org/plugins/subscribe-to-comments-reloaded/
 
 - [ ] **Akismet Anit-Spam darf nicht verwendet werden**
 
     Double-Opt-In für Newsletter
 
-- [ ] **Auftragsdatenverarbeitungsvertrag mit Newsletter-Anbieter **abschließen
+- [ ] **Auftragsdatenverarbeitungsvertrag mit Newsletter-Anbieter** abschließen
 
 - [ ] **Gravatar deaktivieren**
 
