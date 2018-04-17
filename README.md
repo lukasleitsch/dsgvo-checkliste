@@ -67,3 +67,8 @@ Ich akzeptiere die Datenschutzbestimmungen. Weitere Informationen dazu findest d
 - [Wie setze ich die Anforderungen der DSGVO für meine Website um?](https://www.socialmedia-betreuung.de/dsgvo/)
 - [DSGVO Checkliste für Blogger: Wie setze ich die Datenschutz-Grundverordnung für mein Weblog um?](https://datenschmutz.net/dsgvo-checkliste-fuer-blogs/)
 - [Fragen zur Vorbereitung auf die DS-GVO (PDF-Download)](https://www.lfd.niedersachsen.de/download/124239)
+
+*Podcasts zum Thema:*
+
+- [Rechtsbelehrung (Folge 54) – DSGVO: Alles zur EU-Datenschutzgrundverordnung](https://rechtsbelehrung.com/dsgvo-alles-zur-eu-datenschutzgrundverordnung-rechtsbelehrung-folge-54-jura-podcast/)
+- [Working Draft (Revision 336) – DSGVO](http://workingdraft.de/336/)
