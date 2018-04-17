@@ -39,7 +39,7 @@ Ich akzeptiere die Datenschutzbestimmungen. Weitere Informationen dazu findest d
 
 - [ ] **Akismet Anit-Spam darf nicht verwendet werden**
 
-    Double-Opt-In für Newsletter
+- [ ] **Double-Opt-In für Newsletter**
 
 - [ ] **Auftragsdatenverarbeitungsvertrag mit Newsletter-Anbieter** abschließen
 
