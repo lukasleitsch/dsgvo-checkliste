@@ -17,6 +17,7 @@ Jede Website muss bis zum 25. Mai 2018 der DSGVO entsprechen. Da sich jeder Webs
 	- Hinweis darf nicht Link zu Impressum oder Datenschutzerklärung verdecken
 - [ ] **Datenschutzerklärung** ergänzen/aktualisieren
 	- Möglicher Generator: https://dsgvo-muster-datenschutzerklaerung.dg-datenschutz.de/
+- [ ] **Impressum** überprüfen
 - [ ] **SSL-Verschlüsselung** aktivieren
 - [ ] **Google-Analytics** rechtskonform einsetzen
 	- [ ] Vertrag zur Auftragsdatenverarbeitung abschließen (schriftlich und digital)
@@ -27,7 +28,7 @@ Jede Website muss bis zum 25. Mai 2018 der DSGVO entsprechen. Da sich jeder Webs
 - [ ] **Impressum und Datenschutz von Suchmaschinen ausschließen**
 
 - [ ] **Checkbox für Kommentare** einbinden
-	- Mögliches WordPress-Plugin: https://wordpress.org/plugins/wp-gdpr-compliance/
+	- Mögliches WordPress-Plugin: [WP GDPR Compliance](https://wordpress.org/plugins/wp-gdpr-compliance/)
 
 Mögliche Formulierung:
 ```plain
@@ -35,15 +36,20 @@ Ich akzeptiere die Datenschutzbestimmungen. Weitere Informationen dazu findest d
 ```
 
 - [ ] **Double-Opt-In-Verfahren für das Abonnieren der Kommentare via Mail**
-- Mögliches WordPress-Plugin: https://de.wordpress.org/plugins/subscribe-to-comments-reloaded/
+- Mögliches WordPress-Plugin: [Subscribe To Comments Reloaded](https://de.wordpress.org/plugins/subscribe-to-comments-reloaded/)
 
 - [ ] **Akismet Anit-Spam darf nicht verwendet werden**
+
+- [ ] **Verwendung von dem WordPress-Plugins Jetpack vermeiden**
 
 - [ ] **Double-Opt-In für Newsletter**
 
 - [ ] **Auftragsdatenverarbeitungsvertrag mit Newsletter-Anbieter** abschließen
 
 - [ ] **Gravatar deaktivieren**
+
+- [ ] **Emojis von WordPress deaktivieren**
+	- Mögliches Plugin: [Disable Emojis](https://de.wordpress.org/plugins/disable-emojis/)
 
 - [ ] **Überprüfung von externen Ressourcen**
 
@@ -72,6 +78,7 @@ Ich akzeptiere die Datenschutzbestimmungen. Weitere Informationen dazu findest d
 - [DSGVO Checkliste für Blogger: Wie setze ich die Datenschutz-Grundverordnung für mein Weblog um?](https://datenschmutz.net/dsgvo-checkliste-fuer-blogs/)
 - [Fragen zur Vorbereitung auf die DS-GVO (PDF-Download)](https://www.lfd.niedersachsen.de/download/124239)
 - [Datenschutz-Grundverordnung (DSGVO) mit WordPress](https://elbnetz.com/dsgvo-mit-wordpress/)
+- [WordPress-Plugins & DSGVO: Liste mit Plugins, die Daten sammeln (mit Lösungen und Alternativen!)](https://www.blogmojo.de/wordpress-plugins-dsgvo/)
 
 
 *Podcasts zum Thema:*
