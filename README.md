@@ -6,7 +6,7 @@
 
 ## Mitwirken
 
-Jede Website muss bis zum 25. Mai 2018 der DSGVO entsprechen. Da sich jeder Website-Betreiber damit beschäftigen muss und aktiv Änderungen umsetzen muss, können wir uns die Arbeit teilen. Gemeinsam können wir eine Checkliste erstellen, mit der man die Anpassungen an der Website abarbeiten kann. 
+Jede Website muss bis zum 25. Mai 2018 der DSGVO entsprechen. Da sich jeder Website-Betreiber damit beschäftigen muss und aktiv Änderungen umsetzen muss, können wir uns die Arbeit teilen. Gemeinsam können wir eine Checkliste erstellen, mit der man die Anpassungen an der Website abarbeiten kann.
 
 Über einen Pull Request kannst du mithelfen die Checkliste zu erweitern/vervollständigen.
 
@@ -47,9 +47,13 @@ Ich akzeptiere die Datenschutzbestimmungen. Weitere Informationen dazu findest d
 
 - [ ] **Überprüfung von externen Ressourcen**
 
+- [ ] **Plugins, die personenbezogene Daten erheben und speichern in den Datenschutzbestimmungen aufführen**
+
 - [ ] **IP-Adressen beim Kommentieren nicht speichern**
 
 - [ ] **Alte IP-Adressen bei Kommentaren löschen**
+
+- [ ] **Verzeichnis von Datenverarbeitungstätigkeiten** anlegen und führen
 
 ## Links
 *Die Checkliste basiert auf folgenden Links.*
@@ -67,3 +71,4 @@ Ich akzeptiere die Datenschutzbestimmungen. Weitere Informationen dazu findest d
 - [Wie setze ich die Anforderungen der DSGVO für meine Website um?](https://www.socialmedia-betreuung.de/dsgvo/)
 - [DSGVO Checkliste für Blogger: Wie setze ich die Datenschutz-Grundverordnung für mein Weblog um?](https://datenschmutz.net/dsgvo-checkliste-fuer-blogs/)
 - [Fragen zur Vorbereitung auf die DS-GVO (PDF-Download)](https://www.lfd.niedersachsen.de/download/124239)
+- [Datenschutz-Grundverordnung (DSGVO) mit WordPress](https://elbnetz.com/dsgvo-mit-wordpress/)
