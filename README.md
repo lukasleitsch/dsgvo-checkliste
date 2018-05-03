@@ -79,6 +79,8 @@ Ich akzeptiere die Datenschutzbestimmungen. Weitere Informationen dazu findest d
 - [Fragen zur Vorbereitung auf die DS-GVO (PDF-Download)](https://www.lfd.niedersachsen.de/download/124239)
 - [Datenschutz-Grundverordnung (DSGVO) mit WordPress](https://elbnetz.com/dsgvo-mit-wordpress/)
 - [WordPress-Plugins & DSGVO: Liste mit Plugins, die Daten sammeln (mit Lösungen und Alternativen!)](https://www.blogmojo.de/wordpress-plugins-dsgvo/)
+- [WordPress und DSGVO](https://docs.google.com/document/d/1Y5Nr8i9Rg0P8PM-EiajVgJ8an0c8JVgNTNPXuIozeWQ/)
+- [GDPR-Compliance-Tools (DSGVO-Konformitätswerkzeuge) in WordPress](https://de.wordpress.org/2018/04/gdpr-compliance-tools-dsgvo-konformitaetswerkzeuge-in-wordpress/)
 
 
 *Podcasts zum Thema:*
