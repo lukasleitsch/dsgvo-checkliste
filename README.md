@@ -13,10 +13,10 @@ Jede Website muss bis zum 25. Mai 2018 der DSGVO entsprechen. Da sich jeder Webs
 ## Checkliste
 
 - [ ] **Verwendung von Google Fonts vermeiden**
-- [ ] **Cookie-Hinweis einbunden**
+- [ ] **Cookie-Hinweis einbinden**
 	- Hinweis darf nicht Link zu Impressum oder Datenschutzerklärung verdecken
 - [ ] **Datenschutzerklärung** ergänzen/aktualisieren
-	- Möglicher Generator: https://dsgvo-muster-datenschutzerklaerung.dg-datenschutz.de/
+	- Möglicher Generator: https://dsgvo-muster-datenschutzerklaerung.dg-datenschutz.de/ oder https://datenschutz-generator.de/
 - [ ] **Impressum** überprüfen
 - [ ] **SSL-Verschlüsselung** aktivieren
 - [ ] **Google-Analytics** rechtskonform einsetzen
@@ -87,3 +87,4 @@ Ich akzeptiere die Datenschutzbestimmungen. Weitere Informationen dazu findest d
 
 - [Rechtsbelehrung (Folge 54) – DSGVO: Alles zur EU-Datenschutzgrundverordnung](https://rechtsbelehrung.com/dsgvo-alles-zur-eu-datenschutzgrundverordnung-rechtsbelehrung-folge-54-jura-podcast/)
 - [Working Draft (Revision 336) – DSGVO](http://workingdraft.de/336/)
+- [Braucht mein Kontaktformular jetzt eine Checkbox?](https://www.datenschutz-guru.de/braucht-mein-kontaktformular-jetzt-eine-checkbox/)
