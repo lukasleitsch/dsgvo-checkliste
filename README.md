@@ -46,6 +46,8 @@ Ich akzeptiere die Datenschutzbestimmungen. Weitere Informationen dazu findest d
 
 - [ ] **Auftragsdatenverarbeitungsvertrag mit Newsletter-Anbieter** abschließen
 
+- [ ] **Auftragsdatenverarbeitungsvertrag mit Web-Hoster** abschließen
+
 - [ ] **Gravatar deaktivieren**
 
 - [ ] **Emojis von WordPress deaktivieren**
