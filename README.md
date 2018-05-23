@@ -27,14 +27,6 @@ Jede Website muss bis zum 25. Mai 2018 der DSGVO entsprechen. Da sich jeder Webs
 - [ ] **statische Share-Buttons** einsetzen
 - [ ] **Impressum und Datenschutz von Suchmaschinen ausschließen**
 
-- [ ] **Checkbox für Kommentare** einbinden
-	- Mögliches WordPress-Plugin: [WP GDPR Compliance](https://wordpress.org/plugins/wp-gdpr-compliance/)
-
-Mögliche Formulierung:
-```plain
-Ich akzeptiere die Datenschutzbestimmungen. Weitere Informationen dazu findest du in der Datenschutzerklärung].
-```
-
 - [ ] **Double-Opt-In-Verfahren für das Abonnieren der Kommentare via Mail**
 - Mögliches WordPress-Plugin: [Subscribe To Comments Reloaded](https://de.wordpress.org/plugins/subscribe-to-comments-reloaded/)
 
