@@ -12,14 +12,14 @@ Jede Website muss bis zum 25. Mai 2018 der DSGVO entsprechen. Da sich jeder Webs
 
 ## Checkliste
 
-- [ ] **Verwendung von Google Fonts vermeiden**
+- [ ] **Verwendung von Google Fonts vermeiden oder in den Datenschutzerklärung erwähnen**
 - [ ] **Cookie-Hinweis einbinden**
 	- Hinweis darf nicht Link zu Impressum oder Datenschutzerklärung verdecken
 - [ ] **Datenschutzerklärung** ergänzen/aktualisieren
 	- Möglicher Generator: https://dsgvo-muster-datenschutzerklaerung.dg-datenschutz.de/ oder https://datenschutz-generator.de/
 - [ ] **Impressum** überprüfen
 - [ ] **SSL-Verschlüsselung** aktivieren
-- [ ] **Google-Analytics** rechtskonform einsetzen
+- [ ] **Google-Analytics** rechtskonform einsetzen ([Mehr zu dem Thema](https://drschwenke.de/google-analytics-datenschutz-muster-faq))
 	- [ ] Vertrag zur Auftragsdatenverarbeitung abschließen (schriftlich und digital)
 	- [ ] IP Anonymisierung einbinden
 	- [ ] Datenschutzerklärung anpassen
@@ -48,16 +48,16 @@ Ich akzeptiere die Datenschutzbestimmungen. Weitere Informationen dazu findest d
 
 - [ ] **Auftragsdatenverarbeitungsvertrag mit Web-Hoster** abschließen
 
-- [ ] **Gravatar deaktivieren**
+- [ ] **Gravatar deaktivieren oder in den Datenschutzerklärung erwähnen**
 
-- [ ] **Emojis von WordPress deaktivieren**
+- [ ] **Emojis von WordPress deaktivieren oder in den Datenschutzerklärung erwähnen**
 	- Mögliches Plugin: [Disable Emojis](https://de.wordpress.org/plugins/disable-emojis/)
 
 - [ ] **Überprüfung von externen Ressourcen**
 
 - [ ] **Plugins, die personenbezogene Daten erheben und speichern in den Datenschutzbestimmungen aufführen**
 
-- [ ] **IP-Adressen beim Kommentieren nicht speichern**
+- [ ] **IP-Adressen von Kommentaren nicht speichern oder nach 7 Tagen löschen**
 
 - [ ] **Alte IP-Adressen bei Kommentaren löschen**
 
