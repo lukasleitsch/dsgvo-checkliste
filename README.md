@@ -53,6 +53,9 @@ Jede Website muss bis zum 25. Mai 2018 der DSGVO entsprechen. Da sich jeder Webs
 
 - [ ] **Alte IP-Adressen bei Kommentaren löschen**
 
+- [ ] **REST-API schließen** Es können darüber z.B. alle Benutzer ausgelesen werden.
+	- Mögliches Plugin: [Disable REST API](https://de.wordpress.org/plugins/disable-json-api/)
+
 - [ ] **Verzeichnis von Datenverarbeitungstätigkeiten** anlegen und führen
 
 ## Links
